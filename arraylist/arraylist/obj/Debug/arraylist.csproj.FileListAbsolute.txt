@@ -1,0 +1,7 @@
+C:\Users\adamw\Desktop\arraylist\arraylist\obj\Debug\arraylist.csprojResolveAssemblyReference.cache
+C:\Users\adamw\Desktop\arraylist\arraylist\obj\Debug\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\adamw\Desktop\arraylist\arraylist\bin\Debug\arraylist.exe.config
+C:\Users\adamw\Desktop\arraylist\arraylist\bin\Debug\arraylist.exe
+C:\Users\adamw\Desktop\arraylist\arraylist\bin\Debug\arraylist.pdb
+C:\Users\adamw\Desktop\arraylist\arraylist\obj\Debug\arraylist.exe
+C:\Users\adamw\Desktop\arraylist\arraylist\obj\Debug\arraylist.pdb
